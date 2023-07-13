@@ -25,3 +25,6 @@ replay_pid*
 /target/
 /.idea/
 backend/01-spring-booot-demo/.idea
+backend/03-actuator-demo/.idea
+backend/03-actuator-demo/target/.DS_Store
+.DS_Store
