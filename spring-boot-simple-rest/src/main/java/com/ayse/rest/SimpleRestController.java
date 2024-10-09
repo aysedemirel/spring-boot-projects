@@ -12,11 +12,11 @@ public class SimpleRestController {
 
     @GetMapping("/goodbye")
     public String goodByeWorld(){
-        return "Good Bye World!!! ";
+        return "Good Bye World!!!";
     }
 
     @GetMapping("/goodmorning")
     public String goodMorningWorld(){
-        return "Good Morning World!!! ";
+        return "Good Morning World!!!";
     }
 }
