@@ -18,7 +18,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/aysedemirel/spring-boot-projects">
-    <img src="images/logo.webp" alt="Logo">
+    <img src="images/logo.png" alt="Logo">
   </a>
 
 <h3 align="center">Spring Boot Projects</h3>
